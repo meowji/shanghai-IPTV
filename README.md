@@ -1,3 +1,10 @@
+# Specialized for private use.
+
+
+cd /jffs/scripts/ && rm -rf iptv-71.sh && wget --no-check-certificate https://raw.githubusercontent.com/meowji/shanghai-IPTV/HG680-J_R7000_HG220GS/iptv-71.sh && chmod +x iptv-71.sh && sh iptv-71.sh
+
+
+
 # Shanghai-Telecom-4k-iptv-with-merlin
 
 English Veriosn：
